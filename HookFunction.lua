@@ -1,1 +1,3 @@
+setclipboard("https://discord.com/invite/E2N7w35zkt")
+
 hookfunction(require(Replicated.Effect.Container.Respawn),function() end)hookfunction((require(Replicated:WaitForChild("GuideModule"))).ChangeDisplayedNPC,function() end)spawn(function()for v875,v12 in pairs(game:GetDescendants())do if v12:IsA("Texture")then v12.Texture=""elseif v12:IsA("BasePart")and v12.Material==Enum.Material.Water then v12.Material=Enum.Material.SmoothPlastic end end for v203,v805 in pairs(game.Players.LocalPlayer.PlayerScripts:GetDescendants())do local v371={"WaterBlur";"WaterEffect","WaterColorCorrection";"WaterCFrame";"MirageFog"}if table.find(v371,v805.Name)then v805:Destroy()end end end)
