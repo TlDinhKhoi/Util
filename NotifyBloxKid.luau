@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/NotifyBF/Notify(async_dev).lua"))()
-loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/NotifyBF/TxzzdzccApi.lua"))()
+loadstring(game:HttpGet("https://luacrack.site/raw.php/InfinityScript/raw/NotifyBF/Notifyasync_dev.lua"))()
