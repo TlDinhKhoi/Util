@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nz-cat/Bot2/main/f22gb7ce3o.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nz-cat/Bot2/main/7umb09w53r.lua"))()
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/InputApi(NoEncode)"))()
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/InputApi(Encode)"))()
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/Api(DucAnh)"))()
