@@ -2,4 +2,3 @@ loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/InputApi(Encode)"))()
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/NotifyFullMoonOnly"))()
 loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/AttackFix"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/s1ncx/CDN/refs/heads/main/lib/post_data.lua"))()
