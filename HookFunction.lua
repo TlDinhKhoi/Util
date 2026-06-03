@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/LuaCrack/Util/raw/refs/heads/main/Blocked.lua"))()
+loadstring(game:HttpGet("https://github.com/TlDinhKhoi/Util/raw/refs/heads/main/ThongBao/ApiNoEncodeDuyBeo"))()
